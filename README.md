@@ -1,4 +1,5 @@
 # IN Admin Panel
+<img src="https://raw.githubusercontent.com/r4nd1/template-cpanel-in-admin-panel/master/demo-img/images_in_admin_template.PNG" width="900">
 
 ## Uploader
 * Name: Randy Riolis
